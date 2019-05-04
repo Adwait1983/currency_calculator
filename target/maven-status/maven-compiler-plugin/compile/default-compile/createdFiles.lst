@@ -1,8 +1,0 @@
-com\anz\currency\calculator\model\CurrencyPair.class
-com\anz\currency\calculator\model\CurrencyCalculationPath.class
-com\anz\currency\calculator\model\Currency.class
-com\anz\currency\calculator\App.class
-com\anz\currency\calculator\util\InputlineParser.class
-com\anz\currency\calculator\config\CurrencyAppConfig.class
-com\anz\currency\calculator\model\InputRequest.class
-com\anz\currency\calculator\service\CurrencyCalculator.class
