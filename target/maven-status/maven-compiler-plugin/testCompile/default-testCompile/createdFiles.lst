@@ -1,0 +1,3 @@
+com\anz\currency\calculator\service\CurrencyCalculatorTest.class
+com\anz\currency\calculator\util\InputlineParserTest.class
+com\anz\currency\calculator\model\CurrencyCalculationPathTest.class

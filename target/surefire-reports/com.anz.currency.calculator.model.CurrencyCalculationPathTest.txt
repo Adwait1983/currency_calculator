@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.anz.currency.calculator.model.CurrencyCalculationPathTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.619 s - in com.anz.currency.calculator.model.CurrencyCalculationPathTest

@@ -1,0 +1,77 @@
+currencies:
+  -
+   currencyCode: AUD
+   decimalPlaces: 2
+  -
+   currencyCode: CAD
+   decimalPlaces: 2
+  -
+   currencyCode: CNY
+   decimalPlaces: 2  
+  -
+   currencyCode: CZK
+   decimalPlaces: 2
+  -
+   currencyCode: DKK
+   decimalPlaces: 2
+  -
+   currencyCode: EUR
+   decimalPlaces: 2
+  -
+   currencyCode: GBP
+   decimalPlaces: 2
+  -
+   currencyCode: JPY
+   decimalPlaces: 0
+  -
+   currencyCode: NOK
+   decimalPlaces: 2  
+  -
+   currencyCode: NZD
+   decimalPlaces: 2
+  -
+   currencyCode: USD
+   decimalPlaces: 2
+   
+   
+currencyPairs:
+  -
+   baseCurrency: AUD
+   termCurrency: USD
+   rate: 0.8371
+  -
+   baseCurrency: CAD
+   termCurrency: USD
+   rate: 0.8711
+  -
+   baseCurrency: USD
+   termCurrency: CNY
+   rate: 6.1715
+  -
+   baseCurrency: EUR
+   termCurrency: USD
+   rate: 1.2315
+  -
+   baseCurrency: GBP
+   termCurrency: USD
+   rate: 1.5683
+  -
+   baseCurrency: NZD
+   termCurrency: USD
+   rate: 0.7750
+  -
+   baseCurrency: USD
+   termCurrency: JPY
+   rate: 119.95
+  -
+   baseCurrency: EUR
+   termCurrency: CZK
+   rate: 27.6028
+  -
+   baseCurrency: EUR
+   termCurrency: DKK
+   rate: 7.4405
+  -
+   baseCurrency: EUR
+   termCurrency: NOK
+   rate: 8.6651
